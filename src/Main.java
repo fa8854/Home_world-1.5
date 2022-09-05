@@ -106,7 +106,7 @@ public class Main {
     }
 
     public static void homeWork6() {
-        System.out.println("Задача 6");
+        System.out.println("Задача №6");
 
         int age = 20;
         int salary = 80000;
