@@ -73,7 +73,7 @@ public class Main {
     }
 
     public static void homeWork5() {
-        System.out.println("Задача №5");
+        System.out.println("Задача 5");
         var monthNumber = 20;
         switch (monthNumber) {
             case 1:
